@@ -1,1 +1,1 @@
-Dictionary designed to capture “marketing” in earnings call transcripts. This dictionary serves as companion tool to the paper “Marketing Stock Analysts on Wall Street.”
+Dictionary designed to capture “marketing” in earnings call transcripts. This dictionary serves as companion tool to the paper “Marketing Information Processing on Wall Street: Analyst Marketing Emphasis and Forecast Accuracy”
