@@ -651,8 +651,6 @@ sample*
 satisfaction rating*
 satisfaction repurchase*
 saturation coverage
-search engine optimisation
-search engine submission*
 search engine*
 seasonal rating adjustment*
 segment*
